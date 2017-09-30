@@ -14,3 +14,9 @@ https://www.leiphone.com/news/201702/QlPJUIqgyw6brWr2.html   ls-gan
 https://github.com/guojunq/lsgan
 
 https://www.leiphone.com/news/201612/Cdcb1X9tm1zsGSWD.html
+
+生成对抗自动编码器 AAE
+
+基于文本输入生成高质量图片和视频
+
+https://github.com/roatienza/Deep-Learning-Experiments  内有keras 版本 gan
