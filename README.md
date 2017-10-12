@@ -22,3 +22,43 @@ https://www.leiphone.com/news/201612/Cdcb1X9tm1zsGSWD.html
 https://github.com/roatienza/Deep-Learning-Experiments  内有keras 版本 gan
 
 https://github.com/reedscot/icml2016   text2img
+infogan => beta-vea
+https://github.com/crcrpar/chainer-VAE  beta-vae
+
+https://github.com/chainer/chainer/tree/master/examples/vae
+
+deepmind :early Visual concept learning with unsupervised DeepLearning
+
+描述事件 再生事件   gan 生成视频
+
+gan 学习到属性，把属性联系起来  进入强化学习 返回reward
+
+
+https://github.com/msracver/Deep-Feature-Flow
+
+
+1. https://www.leiphone.com/news/201608/HPOt16vwh0UNYMPq.html  commaai gan 视频预测
+
+
+https://lmb.informatik.uni-freiburg.de/resources/datasets/FlyingChairs.en.html  光流数据集  
+
+https://github.com/apache/incubator-mxnet/tree/430ea7bfbbda67d993996d81c7fd44d3a20ef846/tools/caffe_converter  caffe 模型 转 mxnet 模型 转换代码
+
+
+推荐一篇用更通俗易懂的语言介绍WGAN的文章：
+https://zhuanlan.zhihu.com/p/25071913
+ 
+WGAN源码，作者提供，Torch版本：
+https://github.com/martinarjovsky/WassersteinGAN
+Tensorflow版本：https://github.com/Zardinality/WGAN-tensorflow
+Keras版本：
+https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/WassersteinGAN
+
+参考文献
+Arjovsky, M., & Bottou, L.eon. (2017). Towards Principled Methods for Training Generative AdversarialNetworks.
+Arjovsky, M., Soumith, C.,& Bottou, L. eon. (n.d.). Wasserstein GAN.
+
+
+https://github.com/tdeboissiere
+
+https://github.com/tdeboissiere/DeepLearningImplementations
