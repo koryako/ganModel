@@ -62,3 +62,5 @@ Arjovsky, M., Soumith, C.,& Bottou, L. eon. (n.d.). Wasserstein GAN.
 https://github.com/tdeboissiere
 
 https://github.com/tdeboissiere/DeepLearningImplementations
+
+https://github.com/255BITs/HyperGAN
