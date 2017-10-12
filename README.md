@@ -20,3 +20,5 @@ https://www.leiphone.com/news/201612/Cdcb1X9tm1zsGSWD.html
 基于文本输入生成高质量图片和视频
 
 https://github.com/roatienza/Deep-Learning-Experiments  内有keras 版本 gan
+
+https://github.com/reedscot/icml2016   text2img
