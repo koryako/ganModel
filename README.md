@@ -64,3 +64,17 @@ https://github.com/tdeboissiere
 https://github.com/tdeboissiere/DeepLearningImplementations
 
 https://github.com/255BITs/HyperGAN
+
+https://junyanz.github.io/CycleGAN/
+
+https://github.com/tjwei/GANotebooks  重要代码
+
+https://github.com/shadySource/cyclegan_keras
+
+https://github.com/junyanz/CycleGAN
+
+https://github.com/PiscesDream/CycleGAN-keras demo
+
+
+
+https://github.com/shadySource/cyclegan_keras 
