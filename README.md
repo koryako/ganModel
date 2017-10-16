@@ -78,3 +78,5 @@ https://github.com/PiscesDream/CycleGAN-keras demo
 
 
 https://github.com/shadySource/cyclegan_keras 
+
+https://www.baidu.com/home/news/data/newspage?nid=9868049299374505970&n_type=0&p_from=1&dtype=-1  有意思的东西
