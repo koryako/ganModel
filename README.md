@@ -75,7 +75,7 @@ https://github.com/junyanz/CycleGAN
 
 https://github.com/PiscesDream/CycleGAN-keras demo
 
-
+https://github.com/buriburisuri/supervised_infogan
 
 https://github.com/shadySource/cyclegan_keras 
 
