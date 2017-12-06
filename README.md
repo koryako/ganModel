@@ -1,3 +1,20 @@
+
+
+-------生成动漫角色-------
+
+illustration2vec 自动分类标注  tsne数据可视化工具 
+
+CGAN 条件gan
+
+http://make.girls.moe/#/
+make.girls.moe
+https://makegirlsmoe.github.io/assets/pdf/technical_report.pdf
+https://github.com/makegirlsmoe/makegirlsmoe.github.io
+
+
+
+
+
 https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247487956&idx=1&sn=a286d210f39ae3edb40f3bc090cd3baa&chksm=e8d3a6a6dfa42fb015869386d8dcc3ff9ad0e0807a5d0e764af82ff35d75d46d35f044c6ce53&mpshare=1&scene=1&srcid=0816gmU2usOTdZwSzFUCcCWC#rd]
 
 
