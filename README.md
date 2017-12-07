@@ -10,23 +10,34 @@ http://make.girls.moe/#/
 make.girls.moe
 https://makegirlsmoe.github.io/assets/pdf/technical_report.pdf
 https://github.com/makegirlsmoe/makegirlsmoe.github.io
+我们选择从 Getchu 处收集数据集
 
 
 
+ACGAN，其尝试将鉴别器训练为辅助分类器，借以预测条件性输入内容。
+
+SRResNet 
 
 
-https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247487956&idx=1&sn=a286d210f39ae3edb40f3bc090cd3baa&chksm=e8d3a6a6dfa42fb015869386d8dcc3ff9ad0e0807a5d0e764af82ff35d75d46d35f044c6ce53&mpshare=1&scene=1&srcid=0816gmU2usOTdZwSzFUCcCWC#rd]
+https://github.com/openai/imitation 用gan 模仿行为
+
+https://github.com/pathak22/noreward-rl 好奇心驱动
+
+
+https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247487956&idx=1&sn=a286d210f39ae3edb40f3bc090cd3baa&chksm=e8d3a6a6dfa42fb015869386d8dcc3ff9ad0e0807a5d0e764af82ff35d75d46d35f044c6ce53&mpshare=1&scene=1&srcid=0816gmU2usOTdZwSzFUCcCWC#rd] 十大gan 应用
 
 
 https://www.leiphone.com/news/201702/GZsIbIb9V9AUGmb6.html  GAN的理解和tensorflow 的实现
-
-https://github.com/koryako/tensorflow-101  ac-gan和info-gan 代码
+-----------------ac-gan和info-gan 代码------------------
+https://github.com/koryako/tensorflow-101  
 
 https://github.com/buriburisuri/ac-gan
 
 https://arxiv.org/abs/1412.6980  adam
 
-https://www.leiphone.com/news/201702/QlPJUIqgyw6brWr2.html   ls-gan
+
+-------------lsgan--------------------
+https://www.leiphone.com/news/201702/QlPJUIqgyw6brWr2.html   LS-GAN 稳定性
 
 https://github.com/guojunq/lsgan
 
