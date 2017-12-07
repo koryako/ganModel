@@ -21,7 +21,10 @@ SRResNet
 
 https://github.com/openai/imitation 用gan 模仿行为
 
-https://github.com/pathak22/noreward-rl 好奇心驱动
+
+------------好奇心驱动-------------
+https://www.quantamagazine.org/clever-machines-learn-how-to-be-curious-20170919/
+https://github.com/pathak22/noreward-rl 
 
 
 https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247487956&idx=1&sn=a286d210f39ae3edb40f3bc090cd3baa&chksm=e8d3a6a6dfa42fb015869386d8dcc3ff9ad0e0807a5d0e764af82ff35d75d46d35f044c6ce53&mpshare=1&scene=1&srcid=0816gmU2usOTdZwSzFUCcCWC#rd] 十大gan 应用
@@ -72,7 +75,7 @@ https://lmb.informatik.uni-freiburg.de/resources/datasets/FlyingChairs.en.html  
 
 https://github.com/apache/incubator-mxnet/tree/430ea7bfbbda67d993996d81c7fd44d3a20ef846/tools/caffe_converter  caffe 模型 转 mxnet 模型 转换代码
 
-
+--------------WassersteinGAN-------------------
 推荐一篇用更通俗易懂的语言介绍WGAN的文章：
 https://zhuanlan.zhihu.com/p/25071913
  
@@ -108,3 +111,58 @@ https://github.com/buriburisuri/supervised_infogan
 https://github.com/shadySource/cyclegan_keras 
 
 https://www.baidu.com/home/news/data/newspage?nid=9868049299374505970&n_type=0&p_from=1&dtype=-1  有意思的东西
+
+
+
+一、生成对抗网路(GAN)
+生成对抗网络
+https://arxiv.org/abs/1406.2661
+条件生成对抗网络
+https://arxiv.org/abs/1411.1784
+InfoGAN
+https://arxiv.org/abs/1606.03657
+Wasserstein GAN
+https://arxiv.org/abs/1701.07875
+模式正则化GAN
+https://arxiv.org/abs/1612.02136
+耦合GAN
+https://arxiv.org/abs/1606.07536
+Conditional Image Synthesis With Auxiliary Classifier GANs
+https://arxiv.org/abs/1610.09585
+Least Squares Generative Adversarial Networks
+https://arxiv.org/abs/1611.04076v2
+Boundary-Seeking Generative Adversarial Networks
+https://arxiv.org/abs/1702.08431
+基于能量的GAN
+https://arxiv.org/abs/1609.03126
+F-GAN:Training Generative Neural Samplers using Variational Divergence  Minimization
+https://arxiv.org/abs/1606.00709
+生成对抗并行化
+https://arxiv.org/abs/1612.04021
+DiscoGAN
+https://arxiv.org/abs/1703.05192
+对抗性特征学习和对抗学习推论
+https://arxiv.org/abs/1605.09782
+https://arxiv.org/abs/1606.00704
+BEGAN
+https://arxiv.org/abs/1703.10717
+Improved Training of Wasserstein GANs
+https://arxiv.org/abs/1704.00028
+DualGAN:Unsupervised Dual Learning for Image-to-Image Translation
+https://arxiv.org/abs/1704.02510
+MAGAN:Margin Adaptation for Generative Adversarial Networks
+https://arxiv.org/abs/1704.03817
+Softmax GAN
+https://arxiv.org/abs/1704.06191
+
+二、变形自动编码器（VAE）
+Auto-Encoding Variational Bayes
+https://arxiv.org/abs/1312.6114
+Semi-Supervised Learning with Deep Generative Models
+https://arxiv.org/abs/1406.5298
+Denoising Criterion for Variational Auto-Encoding Framework
+https://arxiv.org/abs/1511.06406
+Adversarial Autoencoders
+https://arxiv.org/abs/1511.05644
+Adversarial Variational Bayes: Unifying Variational Autoencoders and  Generative Adversarial Networks
+https://arxiv.org/abs/1701.04722
