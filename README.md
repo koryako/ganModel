@@ -166,3 +166,6 @@ Adversarial Autoencoders
 https://arxiv.org/abs/1511.05644
 Adversarial Variational Bayes: Unifying Variational Autoencoders and  Generative Adversarial Networks
 https://arxiv.org/abs/1701.04722
+
+
+https://github.com/LMescheder/AdversarialVariationalBayes  重要模型
