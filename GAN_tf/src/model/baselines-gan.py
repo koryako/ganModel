@@ -6,8 +6,7 @@ import numpy as np
 import pickle
 #img =minst.train.images[50]
 #plt.imshow(img.reshape((28,28)),cmap="Greys_r")
-#plt.show()
-"""
+
 def inputs(r_img_size,n_img_size):
     real_img=tf.placeholder(tf.float32,[None,r_img_size],name='read_img')
     noise_img=tf.placeholder(tf.float32,[None,n_img_size],name='noise_img')
@@ -151,7 +150,7 @@ plt.plot(losses.T[3], label='Generator')
 plt.title("Training Losses")
 plt.legend()
 
-"""
+
 # Load samples from generator taken while training
 with open('train_samples.pkl', 'rb') as f:
     samples = pickle.load(f)
