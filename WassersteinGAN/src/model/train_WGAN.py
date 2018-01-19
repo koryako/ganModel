@@ -8,7 +8,7 @@ sys.path.append("../utils")
 import general_utils
 import data_utils
 
-
+#http://blog.csdn.net/shadow_guo/article/details/56003908
 def train(**kwargs):
     """
     Train standard DCGAN model
